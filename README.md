@@ -5,7 +5,7 @@ API endpoint to get the circulating supply of the ANT token.
 
 #### Clone the repo:
 ```bash
-git clone https://github.com/lajosdeme/ant-circulating-supply
+git clone https://github.com/lajosdeme/ant-circulating-supply.git
 ```
 
 #### Build with docker:
