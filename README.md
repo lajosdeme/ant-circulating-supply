@@ -12,7 +12,7 @@ git clone https://github.com/lajosdeme/ant-circulating-supply.git
 ```bash
 cd ant-circulating-supply
 
-# Need to fill in ARB_RPC_URL with an Arbitrum One RPC URL in the .env file
+# This will use public Arbitrum One RPC by default
 mv .env.example .env
 
 # This will build with Docker and start the container on port 3000 of the host
